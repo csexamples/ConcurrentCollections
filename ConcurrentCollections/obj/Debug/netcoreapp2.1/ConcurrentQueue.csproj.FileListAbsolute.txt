@@ -1,0 +1,10 @@
+/Users/mindaugaslazauskas/pluralsight/c#/ConcurrentCollections/ConcurrentCollections/bin/Debug/netcoreapp2.1/ConcurrentQueue.deps.json
+/Users/mindaugaslazauskas/pluralsight/c#/ConcurrentCollections/ConcurrentCollections/bin/Debug/netcoreapp2.1/ConcurrentQueue.runtimeconfig.json
+/Users/mindaugaslazauskas/pluralsight/c#/ConcurrentCollections/ConcurrentCollections/bin/Debug/netcoreapp2.1/ConcurrentQueue.runtimeconfig.dev.json
+/Users/mindaugaslazauskas/pluralsight/c#/ConcurrentCollections/ConcurrentCollections/bin/Debug/netcoreapp2.1/ConcurrentQueue.dll
+/Users/mindaugaslazauskas/pluralsight/c#/ConcurrentCollections/ConcurrentCollections/bin/Debug/netcoreapp2.1/ConcurrentQueue.pdb
+/Users/mindaugaslazauskas/pluralsight/c#/ConcurrentCollections/ConcurrentCollections/obj/Debug/netcoreapp2.1/ConcurrentQueue.csproj.CoreCompileInputs.cache
+/Users/mindaugaslazauskas/pluralsight/c#/ConcurrentCollections/ConcurrentCollections/obj/Debug/netcoreapp2.1/ConcurrentQueue.AssemblyInfoInputs.cache
+/Users/mindaugaslazauskas/pluralsight/c#/ConcurrentCollections/ConcurrentCollections/obj/Debug/netcoreapp2.1/ConcurrentQueue.AssemblyInfo.cs
+/Users/mindaugaslazauskas/pluralsight/c#/ConcurrentCollections/ConcurrentCollections/obj/Debug/netcoreapp2.1/ConcurrentQueue.dll
+/Users/mindaugaslazauskas/pluralsight/c#/ConcurrentCollections/ConcurrentCollections/obj/Debug/netcoreapp2.1/ConcurrentQueue.pdb
